@@ -16012,6 +16012,19 @@ module.exports = [
     ],
   },
   {
+    name: 'Ibrahim Anwar',
+    description:
+      'Practitioner & Director. Systems designer across industrial engineering, book conservation, and digital strategy. Three companies. Institutional clients from Paris to Jakarta.',
+    url: 'https://hibranwar.com/uses/',
+    twitter: '@hibranwar',
+    emoji: '🔧',
+    country: '🇮🇩',
+    computer: 'windows',
+    phone: 'android',
+    tags: ['PHP', 'Systems Design', 'Industrial Engineering', 'Publishing', 'Book Conservation'],
+  },
+
+  {
     name: 'James Mills',
     description:
       'Work with PHP & Laravel at @clicksco in Dubai. Pleased to be part of the Laravel community.',
