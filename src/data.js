@@ -125,6 +125,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Hibrkraft Kreasi Indonesia',
+    description: 'Bookbinder and leather-goods maker; runs Hibrkraft in Bogor, Indonesia.',
+    url: 'https://hibrkraft.com/uses/',
+    twitter: '@Hibrkraft',
+    emoji: '📗',
+    country: '🇮🇩',
+    computer: 'Apple Macbook Air M5',      // ← set to what you actually use
+    phone: 'iphone',        // ← same
+    tags: [
+      'Bookbinding',
+      'Leather',
+      'Conservation',
+      'Maker',
+    ],
+  },
+
+  {
     name: 'Hayo Bethlehem',
     description: 'Strategic Adviser',
     url: 'https://hayobethlehem.nl/about/uses',
